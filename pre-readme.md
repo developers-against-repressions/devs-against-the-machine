@@ -29,7 +29,7 @@
 ## Как это будет?
 
 1. Если вы это читаете, значит мы УЖЕ открыли регистрацию команд
-2. Чтобы зарегистрировать свою команду, достаточно добавить в папку `/projects` файл с уникальным именем и следующей информацией:
+2. Чтобы зарегистрировать свою команду, достаточно добавить в папку `/projects` файл с уникальным именем в следующем формате:
  
 ```
 Teamname | Project Description | Link to repo 
@@ -96,7 +96,7 @@ Teamname | Project Description | Link to repo
 
 <br/>
 
-<p align="center"><img src="https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Shape-DxXDYh0T6K8BwFlk.png" alt="Юлия Яковлева" border="0" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/GQLycfM/imgonline-com-ua-Shape-kf0-Sanern-ZO.png" alt="Юлия Яковлева" border="0" width="100" height="100"></p>
 
 <p align="center"><b>Юлия Яковлева</b><br/>
 <i>Выпускница МФТИ<br/>Разработчица в Яндексе</i></p>
