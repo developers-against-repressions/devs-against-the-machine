@@ -105,5 +105,5 @@ Teamname | Project Description | Link to repo
 
 ### Что делать, если у меня нет идеи для проекта?
 
-Раздел с идеями от правозащитников находится в разработке. Если у вас есть идеи о том, что поможет политзаключенным и правозащитникам, напишите в эту [тему](https://github.com/developers-against-repressions/devs-against-the-machine/issues/1)
+Раздел с идеями от правозащитников находится в разработке. Если у вас есть идеи о том, что поможет политзаключенным и правозащитникам, напишите в эту [тему](https://github.com/developers-against-repressions/devs-against-the-machine/issues/1) или заведите issue с описанием идеи и тэгните ее label'ом [idea](https://github.com/developers-against-repressions/devs-against-the-machine/issues?utf8=%E2%9C%93&q=label%3Aidea).
 
