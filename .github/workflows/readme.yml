@@ -5,6 +5,7 @@ on:
     branches:    
       - master
     paths:
+      - 'pre-readme.md'
       - 'projects/*'
 
 jobs:
