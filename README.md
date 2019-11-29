@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://twitter.com/devs_against">twitter</a> | <a href="https://www.facebook.com/devsagainstthemachine/">facebook</a> | <a href="https://t.me/devs_against">telegram</a><p>
 
-## TL; DR: Онлайн-хакатон в поддержку политзэков 13-15 декабря
+## Онлайн-хакатон в поддержку политзаключенных 13-15 декабря
 
 ## Что происходит?
 
