@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.ibb.co/KwJnv1b/logohack.jpg" alt="valya" border="0" width="300" height="300"></p>
 
-<p align="center"><a href="https://twitter.com/devs_against">twitter</a> | <a href="https://www.facebook.com/devsagainstthemachine/">facebook</a> | <a href="https://t.me/devs_against">telegram</a><p>
+<p align="center"><a href="https://twitter.com/devs_against">twitter</a> | <a href="https://www.facebook.com/devsagainstthemachine/">facebook</a> | <a href="https://t-do.ru/devs_against">telegram</a><p>
 
 ## Онлайн-хакатон в поддержку политзаключенных 13-15 декабря
 
