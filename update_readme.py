@@ -57,7 +57,7 @@ def load_projects():
                         % (filename, line)
                     )
 
-            project_set.add((m.group(1).strip(), m.group(2).strip(), m.group(3).strip()))
+                project_set.add((m.group(1).strip(), m.group(2).strip(), m.group(3).strip()))
 
     project_list = sorted(project_set, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())    
     return project_list
