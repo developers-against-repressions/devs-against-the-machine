@@ -24,7 +24,7 @@ This is an opportunity to use code to express yourself and state your position o
 
 ## Who can participate?
 
-IT specialists, designers, manager and human rights activists.
+IT specialists, designers, managers and human rights activists.
 
 ## What will it be like?
 
@@ -44,14 +44,14 @@ Teamname | Project Description | Link to repo
 
 ## Who will assess the projects?
 
-<p align="center"><img src="https://i.ibb.co/K7TJZqQ/aidar-round.png" alt="Айдар Губайдулин" border="0" width="100" height="100"><p>
+<p align="center"><img src="https://i.ibb.co/K7TJZqQ/aidar-round.png" alt="Aidar Gubaidullin" border="0" width="100" height="100"><p>
 
 <p align="center"><b>Aidar Gubaidullin</b><br/>
 <i>MIPT graduate, software engineer<br/>Defendant of the "Moscow case"<br/>(left Russia, declared an international fugitive)</i><p>
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/mGBK5Cb/valya-round.png" alt="Валя Дехтяренко" border="0" width="100" height="100"><p>
+<p align="center"><img src="https://i.ibb.co/mGBK5Cb/valya-round.png" alt="Valya Dehtyarenko" border="0" width="100" height="100"><p>
 
 
 <p align="center"><b>Valya Dehtyarenko</b><br/>
@@ -59,21 +59,21 @@ Teamname | Project Description | Link to repo
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/J3bZhJ6/bragilevsky1.png" alt="Виталий Брагилевский" border="0" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/J3bZhJ6/bragilevsky1.png" alt="Vitaly Bragilevsky" border="0" width="100" height="100"></p>
 
 <p align="center"><b>Vitaly Bragilevsky</b><br/> 
 <i>SPbSU professor<br/>JetBrains software engineer<br/>Author of "Haskell in Depth"</i></p>
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/8gF1n8F/nesterova1.png" alt="Елизавета Нестерова" border="0" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/8gF1n8F/nesterova1.png" alt="Elizaveta Nesterova" border="0" width="100" height="100"></p>
 
 <p align="center"><b>Elizaveta Nesterova</b><br/>
 <i>"Current Time" correspondent<br/>Coordinator of «Передачи.Москва» chat</i></p>
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/M13LTst/volkov1.png" alt="Леонид Волков" border="0" width="100" height="100">
+<p align="center"><img src="https://i.ibb.co/M13LTst/volkov1.png" alt="Leonid Volkov" border="0" width="100" height="100">
 
 <p align="center"><b>Leonid Volkov</b><br/>
   <i>IT specialist, founder of «Общество защиты интернета»<br/>Head manager of Navalny's "headquarters" network</i>
@@ -81,7 +81,7 @@ Teamname | Project Description | Link to repo
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/JRC8n3G/imgonline-com-ua-Shape-9ja-Lg-F7-NEkkj-E.png" alt="Павел Чиков" border="0" width="100" height="100">
+<p align="center"><img src="https://i.ibb.co/JRC8n3G/imgonline-com-ua-Shape-9ja-Lg-F7-NEkkj-E.png" alt="Pavel Chikov" border="0" width="100" height="100">
 
 <p align="center"><b>Pavel Chikov</b><br/>
   <i>Chairperson of AGORA, an association of human rights organizations</i>
@@ -89,14 +89,14 @@ Teamname | Project Description | Link to repo
 
 <br/> 
 
-<p align="center"><img src="https://i.ibb.co/VYt21Lx/smirnov-round.png" alt="Сергей Смирнов" border="0" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/VYt21Lx/smirnov-round.png" alt="Sergei Smirnov" border="0" width="100" height="100"></p>
 
 <p align="center"><b>Sergei Smirnov</b><br/>
 <i>"Mediazona" chief editor</i></p>
 
 <br/>
 
-<p align="center"><img src="https://i.ibb.co/GQLycfM/imgonline-com-ua-Shape-kf0-Sanern-ZO.png" alt="Юлия Яковлева" border="0" width="100" height="100"></p>
+<p align="center"><img src="https://i.ibb.co/GQLycfM/imgonline-com-ua-Shape-kf0-Sanern-ZO.png" alt="Yulia Yakovleva" border="0" width="100" height="100"></p>
 
 <p align="center"><b>Yulia Yakovleva</b><br/>
 <i>MIPT graduate<br/>Yandex software engineer</i></p>
@@ -106,8 +106,3 @@ Teamname | Project Description | Link to repo
 ### What if I don't have any ideas for the hackathon?
 
 "Ideas" section is under construction. If you have an idea of project that might help political prisoners and human rights activists, please share it in [this issue](https://github.com/developers-against-repressions/devs-against-the-machine/issues/1) or create a separate issue, describe your idea there and tag it with an [idea](https://github.com/developers-against-repressions/devs-against-the-machine/issues?utf8=%E2%9C%93&q=label%3Aidea) label.
-
-## Projects
-| Team           | Project description                       |  Link to project's repository             |
-|----------------|-------------------------------------------|-------------------------------------------|
-<!-- Projects -->
