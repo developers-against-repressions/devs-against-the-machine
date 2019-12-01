@@ -115,3 +115,4 @@ Teamname | Project Description | Link to repo
 | //никнейм | Бот афиши судов Медиазоны в Telegram | https://github.com/asolovyov03/Afisha_mediazona_bot |
 | Bypass Engine  | Бот для создания прокси без кода и консоли | https://github.com/Bypass-Engine/TGOpen   |
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
+| Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
