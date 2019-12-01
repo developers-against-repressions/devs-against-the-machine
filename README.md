@@ -111,3 +111,4 @@ Teamname | Project Description | Link to repo
 | Команда        | Описание проекта                          |  Ссылка на репозиторий                    |
 |----------------|-------------------------------------------|-------------------------------------------|
 | //никнейм | Бот афиши судов Медиазоны в Telegram | https://github.com/asolovyov03/Afisha_mediazona_bot |
+| Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-sith  |
