@@ -40,7 +40,7 @@ Teamname | Project Description | Link to repo
 5. Hachathon starts on December 13th.
 6. Hackathon ends on December 15th. To qualify for the contest, you'll need to submit project's documentation in `readme.md` with a link to a 2-minutes long presentation (screencast) of you project
 7. During the following days jury will assess the projects and we'll announce the winners
-8. Best projects will be awarded by our partners: team of "Case 212", Mediazona, moloko plus, photojournalist David Frenkel, Barking store
+8. Best projects will be awarded by our partners: team of ["Case 212"](https://delo212.ru/main), [Mediazona](https://en.wikipedia.org/wiki/MediaZona), [moloko plus](https://moloko.plus/), photojournalist David Frenkel, [Barking store](https://barkingstore.ru/)
 
 ## Who will assess the projects?
 
