@@ -14,7 +14,7 @@ This September we, representatives of the IT community, wrote [an open letter in
 
 But the repression machine hasn't stopped. Those arrested are still in detention centers or under the house arrest, new arrests and trials are coming. As of today, 16 people are under investigation, 7 more were already sentenced to jail. And that's just the "Moscow case" with its huge media coverage, but there are others: the ["Penza case"](https://meduza.io/en/feature/2018/06/20/i-caved-almost-immediately), the ["New Greatness case"](https://meduza.io/en/news/2018/08/27/another-police-informant-emerges-in-a-controversial-case-against-an-alleged-russian-extremist-group), the ["Rostov case"](https://www.rferl.org/a/two-russian-activists-jailed-in-deplorable-act-of-injustice-/30199670.html).
 
-Just today, Sergey Surovtsev, a MAI graduate who developed GLONASS and worked in Silicon Valley, was arrested. He became the third colleague of ours in this absurd "Moscow case".
+Just today, Sergey Surovtsev, a [MAI](https://en.wikipedia.org/wiki/Moscow_Aviation_Institute) graduate who developed [GLONASS](https://en.wikipedia.org/wiki/GLONASS) and worked in Silicon Valley, was arrested. He became the third colleague of ours in this absurd "Moscow case".
 
 ## What should we do?
 
@@ -40,7 +40,7 @@ Teamname | Project Description | Link to repo
 5. Hachathon starts on December 13th.
 6. Hackathon ends on December 15th. To qualify for the contest, you'll need to submit project's documentation in `readme.md` with a link to a 2-minutes long presentation (screencast) of you project
 7. During the following days jury will assess the projects and we'll announce the winners
-8. Best projects will be awarded by our partners: team of "Case 212", Mediazona, moloko plus, photojournalist David Frenkel, Barking store
+8. Best projects will be awarded by our partners: team of ["Case 212"](https://delo212.ru/main), [Mediazona](https://en.wikipedia.org/wiki/MediaZona), [moloko plus](https://moloko.plus/), photojournalist David Frenkel, [Barking store](https://barkingstore.ru/)
 
 ## Who will assess the projects?
 
