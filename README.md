@@ -114,7 +114,9 @@ Teamname | Project Description | Link to repo
 |----------------|-------------------------------------------|-------------------------------------------|
 | //никнейм | Бот афиши судов Медиазоны в Telegram | https://github.com/asolovyov03/Afisha_mediazona_bot |
 | Electro.212    | Телеграм-бот для фиксация нарушений на различных мероприятиях: незаконное задержание полицейскими или вбросы на выборах. | https://github.com/prvmsky/rus-report-bot |
+| Last Word Team | Сайт с публикациями последних слов политзаключённых | https://github.com/CORRUPTOR2037/last-word-project/ |
 | Snatchmap      | Карта имущества, купленного на деньги налогоплательщиков без их ведома | https://github.com/Fxlr8/snatchmap        |
 | Bypass Engine  | Бот для создания прокси без кода и консоли | https://github.com/Bypass-Engine/TGOpen   |
+| Assembly team  | Игра про нелёгкие будни депутатов Госдумы | https://github.com/CORRUPTOR2037/real-politikz-game |
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
