@@ -121,4 +121,5 @@ Teamname | Project Description | Link to repo
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
+| BlueLemon Chat | collaborative arts video game             | https://github.com/twelveseas/bluemen-the-game |
 | Badges-team    | Сервис для добавления на любой сайт бейджа "Мы против политических репрессий" | https://github.com/okonst/badge-stop-repressions |
