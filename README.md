@@ -120,3 +120,4 @@ Teamname | Project Description | Link to repo
 | Assembly team  | Игра про нелёгкие будни депутатов Госдумы | https://github.com/CORRUPTOR2037/real-politikz-game |
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
+| anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
