@@ -136,3 +136,4 @@ _Как проект помогает и/или поддерживает пол�
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
 | BlueLemon Chat | collaborative arts video game             | https://github.com/twelveseas/bluemen-the-game |
 | Badges-team    | Сервис для добавления на любой сайт бейджа "Мы против политических репрессий" | https://github.com/okonst/badge-stop-repressions |
+| Refugee Stories | Raising awareness of the refugee crisis   | https://github.com/nezlobnaya/refugee-stories |
