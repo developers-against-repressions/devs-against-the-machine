@@ -134,6 +134,7 @@ _Как проект помогает и/или поддерживает пол�
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
+| Peace Data     | Бот, зарегистрировавшись в котором, можно участвовать в заседаниях/ездить в овд/писать документы. Соединяет юристов и политзаков | https://github.com/shigabeev/pro-bono     |
 | BlueLemon Chat | collaborative arts video game             | https://github.com/twelveseas/bluemen-the-game |
 | Badges-team    | Сервис для добавления на любой сайт бейджа "Мы против политических репрессий" | https://github.com/okonst/badge-stop-repressions |
 | Refugee Stories | Raising awareness of the refugee crisis   | https://github.com/nezlobnaya/refugee-stories |
