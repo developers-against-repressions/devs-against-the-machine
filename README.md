@@ -132,6 +132,7 @@ _Как проект помогает и/или поддерживает пол�
 | Snatchmap      | Карта имущества, купленного на деньги налогоплательщиков без их ведома | https://github.com/Fxlr8/snatchmap        |
 | Bypass Engine  | Бот для создания прокси без кода и консоли | https://github.com/Bypass-Engine/TGOpen   |
 | Assembly team  | Игра про нелёгкие будни депутатов Госдумы | https://github.com/CORRUPTOR2037/real-politikz-game |
+| IATM Studio    | Игра о ситуации в России | https://github.com/iatm-studio/sovereign-democracy |
 | Lyubish        | Игра - кликер на актуальную тематику | https://github.com/damaskes/time-of-dark-side |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
