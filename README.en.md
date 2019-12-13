@@ -37,10 +37,26 @@ Teamname | Project Description | Link to repo
 
 3. If you don't have [a team](https://github.com/developers-against-repressions/devs-against-the-machine/issues/1) or [an idea](https://github.com/developers-against-repressions/devs-against-the-machine/issues/2), you can look for one in the respective topic
 4. Join our [chat in telegram](https://t.me/joinchat/Bjgy21k_M8DjJyzLhC0r6w) and follow our social medias for many more updates to come
-5. Hachathon starts on December 13th.
-6. Hackathon ends on December 15th. To qualify for the contest, you'll need to submit project's documentation in `readme.md` with a link to a 2-minutes long presentation (screencast) of you project
+5. Hachathon starts at **17:00 UTC, December 13th**.
+6. Hackathon ends at **17:00 UTC, December 15th**. To qualify for the contest, you'll need to submit project's documentation in `readme.md` with a link to a 2-minutes long presentation (screencast) of you project
 7. During the following days jury will assess the projects and we'll announce the winners
 8. Best projects will be awarded by our partners: team of ["Case 212"](https://delo212.ru/main), [Mediazona](https://en.wikipedia.org/wiki/MediaZona), [moloko plus](https://moloko.plus/), photojournalist David Frenkel, [Barking store](https://barkingstore.ru/)
+
+### What if I don't have any ideas for the hackathon?
+
+There are many ideas for projects listed in [Issues](https://github.com/developers-against-repressions/devs-against-the-machine/issues) labeled as [idea](https://github.com/developers-against-repressions/devs-against-the-machine/issues?utf8=%E2%9C%93&q=label%3Aidea). If you don't have a Russian-speaking member in your team, please join our [chat in telegram](https://t.me/joinchat/Bjgy21k_M8DjJyzLhC0r6w), we'll be glad to translate and help you choose an idea there.
+
+## How will the projects be assessed?
+
+### 1. Implementation
+_How functional is the prototype? Will the project be supported in future?_
+
+### 2. Matching the subject
+_Does the project help and/or support political prisoners? Does it express your civic stand?_
+
+### 3. How cool the idea is (subjectively)
+
+The jury will vote by secret ballot, scoring each criteria from 1 to 10. The projects will be ranked according to their summarized scores. Top 3 projects will win prizes from our partners.
 
 ## Who will assess the projects?
 
@@ -102,7 +118,3 @@ Teamname | Project Description | Link to repo
 <i>MIPT graduate<br/>Yandex software engineer</i></p>
 
 <br/>
-
-### What if I don't have any ideas for the hackathon?
-
-"Ideas" section is under construction. If you have an idea of project that might help political prisoners and human rights activists, please share it in [this issue](https://github.com/developers-against-repressions/devs-against-the-machine/issues/1) or create a separate issue, describe your idea there and tag it with an [idea](https://github.com/developers-against-repressions/devs-against-the-machine/issues?utf8=%E2%9C%93&q=label%3Aidea) label.
