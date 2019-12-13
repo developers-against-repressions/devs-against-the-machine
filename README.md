@@ -127,6 +127,7 @@ _Как проект помогает и/или поддерживает пол�
 |----------------|-------------------------------------------|-------------------------------------------|
 | foss-gov       | Free and open-source governance           | https://github.com/linvain/foss-gov       |
 | doxa           | hansel - platform/physdev for alarming in the situations like police arrest | https://github.com/destabilizer/hansel    |
+| Pokement       | Игра про полицию и покемонов | // здесь будет репозиторий |
 | mcclane        | не знаешь есть впереди толпы менты или нет? Маклейн оповестит если что | https://github.com/xelaj/mcclane          |
 | //никнейм | Бот афиши судов Медиазоны в Telegram | https://github.com/asolovyov03/Afisha_mediazona_bot |
 | ROS            | Игра про журналиста      | https://github.com/rosdvp/newsmaker       |
