@@ -157,3 +157,5 @@ _Как проект помогает и/или поддерживает пол�
 | theycanbesaved | Дзен-дашборд иллюстрирующий насколько малая часть средств, украденных нашими крупнейшими коррупционерами, могла бы спасти жизнь. | https://github.com/taranoff/theycanbesaved |
 | Refugee Stories | Raising awareness of the refugee crisis   | https://github.com/nezlobnaya/refugee-stories |
 | Nginx Community | Веб-сайт кампании в поддержку разработчиков Nginx | https://github.com/komachi/poweredbynginx |
+| ястоюза.рф | Система прямого финансирования фондов и волонтеров [#21](https://github.com/developers-against-repressions/devs-against-the-machine/issues/21) | https://github.com/stouza |
+
