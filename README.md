@@ -152,6 +152,7 @@ _Как проект помогает и/или поддерживает пол�
 | newsificator3000 | Elaborate news                            | https://github.com/nekotik1/newsificator3000 |
 | Holistic Code  | Сервис для создания аватарок поддержки политических заключенных | https://github.com/igorkamyshev/avatar-vs-repression |
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
+| He was right, I was wrong. | Некоторые смеются над колонкой Голубицкого, а я согласна с каждым словом. | https://github.com/nekotik2/golubitsky-was-right |
 | ястоюза.рф | Система прямого финансирования фондов и волонтеров [#21](https://github.com/developers-against-repressions/devs-against-the-machine/issues/21) | https://github.com/stouza/stouza.ru https://github.com/stouza/stouza-android |
 | BlueLemon Chat | collaborative arts video game             | https://github.com/twelveseas/bluemen-the-game |
 | Badges-team    | Сервис для добавления на любой сайт бейджа "Мы против политических репрессий" | https://github.com/okonst/badge-stop-repressions |
