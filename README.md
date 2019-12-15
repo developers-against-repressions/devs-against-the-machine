@@ -154,6 +154,7 @@ _Как проект помогает и/или поддерживает пол�
 | anonimus       | скрипт для анонимизации людей на видео | https://github.com/belskikh/anonimus      |
 | He was right, I was wrong. | Некоторые смеются над колонкой Голубицкого, а я согласна с каждым словом. | https://github.com/nekotik2/golubitsky-was-right |
 | ястоюза.рф | Система прямого финансирования фондов и волонтеров [#21](https://github.com/developers-against-repressions/devs-against-the-machine/issues/21) | https://github.com/stouza/stouza.ru https://github.com/stouza/stouza-android |
+| Free 212       | Stop Lie                                  | https://github.com/0x5A35A3h/stop-lie     |
 | BlueLemon Chat | collaborative arts video game             | https://github.com/twelveseas/bluemen-the-game |
 | Badges-team    | Сервис для добавления на любой сайт бейджа "Мы против политических репрессий" | https://github.com/okonst/badge-stop-repressions |
 | theycanbesaved | Дзен-дашборд иллюстрирующий насколько малая часть средств, украденных нашими крупнейшими коррупционерами, могла бы спасти жизнь. | https://github.com/taranoff/theycanbesaved |
